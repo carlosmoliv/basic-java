@@ -1,4 +1,4 @@
-package org.example.domain.car;
+package org.example.car;
 
 public enum CarType {
     ELECTRIC,

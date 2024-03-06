@@ -1,15 +1,15 @@
 package org.example;
 
-import org.example.domain.booking.Booking;
-import org.example.domain.booking.BookingRepositoryImpl;
-import org.example.domain.booking.BookingService;
-import org.example.domain.car.Car;
-import org.example.domain.car.CarRepository;
-import org.example.domain.car.CarRepositoryImpl;
-import org.example.domain.car.CarType;
-import org.example.domain.user.User;
-import org.example.domain.user.UserRepository;
-import org.example.domain.user.UserRepositoryImpl;
+import org.example.booking.Booking;
+import org.example.booking.BookingRepositoryImpl;
+import org.example.booking.BookingService;
+import org.example.car.Car;
+import org.example.car.CarRepository;
+import org.example.car.CarRepositoryImpl;
+import org.example.car.CarType;
+import org.example.user.User;
+import org.example.user.UserRepository;
+import org.example.user.UserRepositoryImpl;
 
 import java.util.Arrays;
 import java.util.List;

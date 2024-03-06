@@ -1,6 +1,6 @@
-package org.example.domain.booking;
+package org.example.booking;
 
-import org.example.domain.car.Car;
+import org.example.car.Car;
 
 import java.util.UUID;
 

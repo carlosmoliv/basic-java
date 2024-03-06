@@ -1,4 +1,4 @@
-package org.example.domain.car;
+package org.example.car;
 
 public interface CarRepository {
     public void save(Car car);
